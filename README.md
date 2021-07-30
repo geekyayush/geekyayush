@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ayush Somani's github stats](https://github-readme-stats.vercel.app/api?username=geekyayush&show_icons=true)](https://github.com/geekyayush)
+
 <!--
 **geekyayush/geekyayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
