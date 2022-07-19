@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
 [![Ayush Somani's github stats](https://github-readme-stats.vercel.app/api?username=geekyayush&show_icons=true)](https://github.com/geekyayush)
 
